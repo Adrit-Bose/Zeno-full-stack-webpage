@@ -1,0 +1,25 @@
+Welcome To ZenoCTF
+ZenoCTF is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional,a Student or in any workfield with a passion of hacking
+
+Why It Is Created
+ZenoCTF is basically created so that various individuals and come along and solve various bug and devloment issues.
+
+Zenoes
+Zenoes is a community of all the ZenoCTF players where you can discuss your problems with other ZenoCTF players compete with them 
+
+About
+This section is designed to help you get the most out of our content. If you are new to bug bounties and web hacking
+we show you the basics of web applications, the hacker mentality and how to compete with othe CTF Players
+li> Problems to hack and test your coding skills.
+li> Materials to provide insight knowledge about the Problems.
+li> Create your own team and jump in.
+
+ Capture the Flag (CTF) levels to help you practice and sharpen your skills. 
+ By finding as few as 3 flags, you’ll automatically be added to the priority invitation queue for private program invitations and will receive one the following day.
+ For every 26 points you earn on the CTF,you’ll receive another invitation. Keep an eye on that progress bar and hack on to get the next invitation!
+ Whether you’re a new hacker or you’re just new to our platform,this is a great way for you to dive into the deep end from day one.
+ 
+Report Writing, Communication Tips, and Community Guidelines
+  Understanding The HACKERONE Code Of Conduct
+  How To Write a Good Report And Use The CVSS Calculator
+  How And When To Ask For More Help
